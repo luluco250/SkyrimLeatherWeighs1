@@ -1,2 +1,5 @@
-# SkyrimLeatherWeighs1
-Tiny mod that changes leather to weigh 1,
+# LeatherWeighs1
+
+Tiny mod that changes leather weight to 1.
+
+ESL formatted.
